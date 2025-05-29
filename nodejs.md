@@ -6,11 +6,11 @@
 
 ## Table of Contents
 
-- [chapter 1: introduction to Node js](#chapter-1--introduction-to-node-js)
+- [Chapter 1: Introduction to Node js](#chapter-1--introduction-to-node-js)
 - [Chapter 2: Setting Up the Environment](#chapter-2-setting-up-the-environment)
-- [chapter 3: how network request works ](#chapter-3-how-network-request-works)
+- [Chapter 3: How network request works ](#chapter-3-how-network-request-works)
 
-## chapter 1 : introduction to Node js
+## Chapter 1 : Itroduction to Node js
 
 Node.js is an open-source and cross-platform JavaScript runtime environment. Node.js runs the V8 JavaScript engine, the core of Google Chrome, outside of the browser.
 
@@ -24,7 +24,7 @@ Node.js is an open-source and cross-platform JavaScript runtime environment. Nod
 - Checking versions (`node -v`, `npm -v`)
 - To change node version use `nvm install 20.12.0` then `nvm use 20.12.0`
 
-## chapter 3: how network request works
+## Chapter 3: How network request works
 
 _How a Web Request Works: From DNS Lookup to Server Response_
 
@@ -119,4 +119,6 @@ _How a Web Request Works: From DNS Lookup to Server Response_
 | 6. Browser Render          | Browser parses response and renders page        |
 | 7. Caching                 | Response caching to optimize future requests    |
 
----
+![DNS Lookup image](https://i.ibb.co/DDRf30Pq/DNS-lookup.webp)
+
+## ![after DNS http handshak](https://i.ibb.co/qMQ3p8zc/afterdns.jpg)
