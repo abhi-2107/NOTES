@@ -1,6 +1,6 @@
 # Node JS
 
-[node js tutorial](<[https://](https://www.youtube.com/playlist?list=PL78RhpUUKSwfeSOOwfE9x6l5jTjn5LbY3)>)
+[node js tutorial](https://www.youtube.com/playlist?list=PL78RhpUUKSwfeSOOwfE9x6l5jTjn5LbY3)
 
 ---
 
@@ -8,7 +8,7 @@
 
 - [chapter 1: introduction to Node js](#chapter-1--introduction-to-node-js)
 - [Chapter 2: Setting Up the Environment](#chapter-2-setting-up-the-environment)
-- [chapter 3: how network request works ](chapter-3-how-network-request-works)
+- [chapter 3: how network request works ](#chapter-3-how-network-request-works)
 
 ## chapter 1 : introduction to Node js
 
@@ -16,7 +16,7 @@ Node.js is an open-source and cross-platform JavaScript runtime environment. Nod
 
 - windows browser objects linke BOM , DOM , cache, cookies does not work with Node.js as it is outside of browser, so browser properties does not work with it.
 
-[read more](<[https://](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)>)
+[read more](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
 
 ## Chapter 2: Setting Up the Environment
 
